@@ -1,0 +1,22 @@
+Question 1. What is the first term in part-r-00000 and how many times does it appear?
+Term is :''but 
+Frequency: 1
+
+Question 2. What is the third to last term in part-r-00004 and how many times does it appear?
+Term is: zorah
+Frequency: 8
+
+Question 3. How many unique terms are there? (Hint: read the counter values)
+41687 terms
+
+
+Question 4. What is the first term in part-r-00000 and how many times does it appear?
+Term is: aaron 
+Frequency: 416
+
+Question 5. What is the third to last term in part-r-00004 and how many times does it appear?
+Term is: zorah
+Frequency: 8
+
+Question 6. How many unique terms are there?
+31940 terms
